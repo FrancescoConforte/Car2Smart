@@ -19,7 +19,7 @@ Developed by [Jacopo Braccio](https://github.com/jacopobr), [Francesco Conforte]
 
 ## Introduction
 Car2Smart is an IoT microservice oriented platform which aims at improving car sharing services, with a particular eye on safety.
-One of the major reason of car accidents is alcohol. Preventing a person from driving in an alterated state is crucial for road safety and could eventually save lives. 
+One of the major reason of car accidents is alcohol. Preventing a person from driving in an altered state is crucial for road safety and could eventually save lives. 
 With Car2Smart, before car's rent starts, the user must take an alcohol test in order to be able to unlock the car. If the alcohol test is negative, the booking can start, otherwise the user is not allowed to drive and will be prompted to find an alternative.
 Furthermore, Car2Smart offers a fast way of noticing accidents and vandalism against car fleet and a control system for air conditioning in order to reduce wastes. 
 
@@ -82,7 +82,11 @@ Telegram represents the user awareness side of the platform. A bot reachable at 
 </p>
 
 ## Demo video
-Here is a quick video on how the platform actually works: 
+Here there is a quick video on how the platform actually works: 
 
 [![Video Demo Car2Smart](https://res.cloudinary.com/marcomontalbano/image/upload/v1622987770/video_to_markdown/images/youtube--owDrOwuivXE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/owDrOwuivXE "Video Demo Car2Smart")
 
+## Promotional video
+Here there is a brief promotional video we realized:
+
+[![Promo Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1622998470/video_to_markdown/images/youtube--S6BmRyW-ucA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/S6BmRyW-ucA "Promo Video Car2Smart")

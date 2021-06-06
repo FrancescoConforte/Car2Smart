@@ -10,8 +10,8 @@ Developed by [Jacopo Braccio](https://github.com/jacopobr), [Francesco Conforte]
     - [Alcohol Test](#alcohol-test)
     - [Car Unlock](#car-unlock)
     - [Air Conditioning](#air-conditioning)
-    - [Windows Monitorer](#windows-monitorer)
-    - [Dashboard Adaptator](#dashboard-adaptator)
+    - [Windows Monitor](#windows-monitor)
+    - [Dashboard Adapter](#dashboard-adapter)
     - [Telegram Bot](#telegram-bot)
   - [Demo video](#demo-video)
 

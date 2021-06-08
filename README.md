@@ -14,6 +14,7 @@ Developed by [Jacopo Braccio](https://github.com/jacopobr), [Francesco Conforte]
     - [Dashboard Adapter](#dashboard-adapter)
     - [Telegram](#telegram)
   - [Demo video](#demo-video)
+  - [Promotional video](#promotional-video)
 
 
 

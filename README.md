@@ -12,7 +12,7 @@ Developed by [Jacopo Braccio](https://github.com/jacopobr), [Francesco Conforte]
     - [Air Conditioning](#air-conditioning)
     - [Windows Monitor](#windows-monitor)
     - [Dashboard Adapter](#dashboard-adapter)
-    - [Telegram Bot](#telegram-bot)
+    - [Telegram](#telegram)
   - [Demo video](#demo-video)
 
 

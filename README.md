@@ -4,7 +4,7 @@ Developed by [Jacopo Braccio](https://github.com/jacopobr), [Francesco Conforte]
 
 
   - [Introduction](#introduction)
-  - [General platfrom architecture](#general-platfrom-architecture)
+  - [General platform architecture](#general-platfrom-architecture)
   - [Microservices](#microservices)
     - [Expose Catalog](#expose-catalog)
     - [Alcohol Test](#alcohol-test)
